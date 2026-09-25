@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "notebooklm": {
+      "command": "d:\\WORK\\AI\\Google Notebook\\.venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "notebooklm.mcp"
+      ],
+      "env": {
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}
